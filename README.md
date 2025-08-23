@@ -15,6 +15,7 @@
 <br>
 
 <!-- sheilds: https://shields.io/ -->
+
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
 > Welcome to Stockelper Lab! We build an AI-powered stock investment assistant leveraging LangGraph multi-agent workflows, knowledge graph (Neo4j), vector search, and automated data pipelines to support market/fundamental/technical analysis and portfolio strategies.
@@ -23,8 +24,12 @@
 “함께 만드는 우연한 혁명(Serendipity Revolution)”
 진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
 
+프로젝트 계획표 : https://www.notion.so/chanrankim/Stockelper-Lab-254963ffa3ee80dfa0b3e919679ad167
+
 ## 🌟 프로젝트 목표 (Project Vision)
-_"AI 투자 보조에서 실거래까지, 실전형 에이전트 연구"_  
+
+_"AI 투자 보조에서 실거래까지, 실전형 에이전트 연구"_
+
 - LangGraph 기반 멀티 에이전트 설계/운영 연구 (Supervisor·Router·분석 에이전트)
 - Neo4j 지식그래프·Milvus 벡터DB·MongoDB 문서스토어를 통한 하이브리드 검색
 - Market/Fundamental/Technical/Portfolio/Strategy 에이전트 워크플로우 고도화
@@ -34,13 +39,13 @@ _"AI 투자 보조에서 실거래까지, 실전형 에이전트 연구"_
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
-| 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
-|---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 김찬란 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI/추천 시스템 최적화             |
-| **Member** | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4) | 데이터 파이프라인 설계                  |
-
+| 역할                      | 이름              | 기술 스택 배지                                                                                                     | 주요 관심 분야               |
+| ------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
+| **Project Manager** | 정영상            | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C)  | 생성형 AI/추천 시스템 최적화 |
+| **Member**          | 레오나르도 다빈치 | ![SQL](https://img.shields.io/badge/SQL-Advanced-003B57) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4)     | 데이터 파이프라인 설계       |
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
+
 ```mermaid
 gantt
     title 2025 AI 프로젝트 여정
@@ -53,9 +58,10 @@ gantt
     해커톤         :2025-11-20, 3d
 ```
 
-
 ## 🛠️ 우리의 개발 문화 (Our Development Culture)
-**우리의 개발 문화**  
+
+**우리의 개발 문화**
+
 ```python
 class CollaborationFramework:
     def __init__(self):
@@ -65,7 +71,7 @@ class CollaborationFramework:
             'ci/cd': 'GitHub Actions',
             'docs': 'Github Wiki'
         }
-    
+  
     def workflow(self):
         return """주간 사이클:
         1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
@@ -73,38 +79,38 @@ class CollaborationFramework:
         3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
 ```
 
-
 ## 📈 성과 지표 (Achievement Metrics)
-**2024 주요 KPI**  
-| 지표                     | 목표치 | 현재 달성률 |
-|--------------------------|--------|-------------|
-| 커밋 수                  | 1,200  | 83%         |
-| 이슈 해결률              | 95%    | 89%         | 
-| 기술 블로그 게시물       | 24편   | 15편        |
-| 오픈소스 기여도          | 8회    | 5회         |
 
+**2024 주요 KPI**
+
+| 지표               | 목표치 | 현재 달성률 |
+| ------------------ | ------ | ----------- |
+| 커밋 수            | 1,200  | 83%         |
+| 이슈 해결률        | 95%    | 89%         |
+| 기술 블로그 게시물 | 24편   | 15편        |
+| 오픈소스 기여도    | 8회    | 5회         |
 
 ## 💻 주차별 활동 (Activity History)
 
-| 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2025/02/ | OT       |      |
-| 2025/02/ |  Part 1. | 미정 | 
-| 2025/02/ |  Part 2. | 미정 | 
-| 2025/02/ |  Part 3. | 미정 | 
-| 2025/03/ |  Part 4. | 미정 | 
-| 2025/03/ |  Part 5. | 미정 | 
-
-
+| 날짜     | 내용    | 발표자 |
+| -------- | ------- | ------ |
+| 2025/02/ | OT      |        |
+| 2025/02/ | Part 1. | 미정   |
+| 2025/02/ | Part 2. | 미정   |
+| 2025/02/ | Part 3. | 미정   |
+| 2025/03/ | Part 4. | 미정   |
+| 2025/03/ | Part 5. | 미정   |
 
 ## 💡 학습 자원 (Learning Resources)
-**우리가 만든 지식 허브**  
+
+**우리가 만든 지식 허브**
+
 - [Stockelper (Core Repo)](https://github.com/Pseudo-Lab/Stockelper): LLM 서버, 에이전트, 데이터 파이프라인, 인프라
 - [System Architecture Docs](https://github.com/Pseudo-Lab/Stockelper/blob/main/README.md#-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98): 구성 요소 및 흐름도
 - [Quick Start (Compose)](https://github.com/Pseudo-Lab/Stockelper/blob/main/README.md#-%EB%B9%A0%EB%A5%B8-%EC%8B%9C%EC%9E%91): 네트워크 생성, 빌드/실행 가이드
 
-
 ## 🌱 참여 안내 (How to Engage)
+
 - 빌더로 참여 — 프로젝트 기획·운영 주도
 - 러너로 참여 — 연구·개발·테스트 등 실행
 - 청강 참여 — 공개 세션 참여 가능
@@ -112,7 +118,8 @@ class CollaborationFramework:
 ❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
 ❗️커뮤니케이션 채널: 디스코드 #{{채널명}}
 
-**누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
+**누구나 청강을 통해 모임을 참여하실 수 있습니다.**
+
 1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
@@ -123,7 +130,7 @@ class CollaborationFramework:
 여러분의 참여와 기여가 ‘우연한 혁명(Serendipity Revolution)’을 가능하게 합니다. 모두에게 깊은 감사를 전합니다.
 OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
-## About Pseudo Lab 👋🏼</h2>
+## About Pseudo Lab 👋🏼`</h2>`
 
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
@@ -138,6 +145,7 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 🚩 추가 팁 (Usage Tips)
+
 - 각 항목 내 {{ }} 표시된 부분을 프로젝트에 맞게 꼭 수정하세요.
 - 불필요한 프로젝트 유형 예시는 제거하거나 교체해 명확하게 하세요.
 - 로드맵과 활동내역 부분에 Mermaid 다이어그램 등을 이용해 시각적으로 표현하는 것을 추천합니다.
