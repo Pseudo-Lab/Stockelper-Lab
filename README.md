@@ -1,39 +1,36 @@
-# 10th-template
+# Stockelper-Lab
 
-<h1 align="center"> 10th Template </h1>
+<h1 align="center"> Stockelper Lab </h1>
 
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S10-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/10th-template" alt="Stars Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/10th-template" alt="Forks Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/10th-template" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/10th-template" alt="Issues Badge"/></a>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/10th-template?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2F10th-template&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Pseudo-Lab/Stockelper-Lab/stargazers"><img src="https://img.shields.io/github/stars/Pseudo-Lab/Stockelper-Lab" alt="Stars Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Stockelper-Lab/network/members"><img src="https://img.shields.io/github/forks/Pseudo-Lab/Stockelper-Lab" alt="Forks Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Stockelper-Lab/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Stockelper-Lab" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Stockelper-Lab/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Stockelper-Lab" alt="Issues Badge"/></a>
+<a href="https://github.com/Pseudo-Lab/Stockelper-Lab/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Stockelper-Lab?color=2b9348"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPseudo-Lab%2FStockelper-Lab&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 <br>
 
 <!-- sheilds: https://shields.io/ -->
 <!-- hits badge: https://hits.seeyoufarm.com/ -->
 
-> Welcome to OOO repository! We aim to OOO, offering tools and frameworks for OOO, OOO, and OOO. Join us in advancing the field of OOO through open collaboration and innovation!
+> Welcome to Stockelper Lab! We build an AI-powered stock investment assistant leveraging LangGraph multi-agent workflows, knowledge graph (Neo4j), vector search, and automated data pipelines to support market/fundamental/technical analysis and portfolio strategies.
 
-🚀 {{프로젝트명}} — 가짜연구소 템플릿 프로젝트
+🚀 Stockelper Lab — 가짜연구소 오픈 리서치 프로젝트
 “함께 만드는 우연한 혁명(Serendipity Revolution)”
 진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
 
 ## 🌟 프로젝트 목표 (Project Vision)
-_"이론에서 실전까지, 함께 성장하는 AI 실험실"_  
-- Graph-based RAG 스터디 및 프로젝트
-- 개인 성장과 집단 지혜의 시너지 창출
-- 오픈소스 정신을 바탕으로 한 지식 공유 문화
-- 실패를 성공의 디딤돌로 만드는 실험적 접근
-- 논문 리뷰 프로젝트 — 최신 AI 논문 분석, 토론, 실험 재현
-- 책 기반 스터디 — 머신러닝/데이터사이언스 주요 서적 공동 학습 및 적용
-- 오픈소스 프로젝트 — AI·데이터 처리 관련 라이브러리 개발 및 개선
-- 컨퍼런스 논문 투고 — 최신 연구 수행 및 국제 학회 제출 준비
-
+_"AI 투자 보조에서 실거래까지, 실전형 에이전트 연구"_  
+- LangGraph 기반 멀티 에이전트 설계/운영 연구 (Supervisor·Router·분석 에이전트)
+- Neo4j 지식그래프·Milvus 벡터DB·MongoDB 문서스토어를 통한 하이브리드 검색
+- Market/Fundamental/Technical/Portfolio/Strategy 에이전트 워크플로우 고도화
+- Airflow 기반 크롤링·임베딩·동기화 파이프라인 설계와 운영 자동화
+- KIS/DART/YouTube 등 외부 API 연동, 모의→실거래까지 End-to-End 검증
+- 오픈소스 협업과 실전 지식 공유, 실패 기록과 재현으로 학습 가속
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
@@ -102,9 +99,9 @@ class CollaborationFramework:
 
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
-- [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
-- [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
-- [Failure Journal](https://your-org.github.io/failure-journal): 50+개의 실패 사례 분석 [31][34]
+- [Stockelper (Core Repo)](https://github.com/Pseudo-Lab/Stockelper): LLM 서버, 에이전트, 데이터 파이프라인, 인프라
+- [System Architecture Docs](https://github.com/Pseudo-Lab/Stockelper/blob/main/README.md#-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98): 구성 요소 및 흐름도
+- [Quick Start (Compose)](https://github.com/Pseudo-Lab/Stockelper/blob/main/README.md#-%EB%B9%A0%EB%A5%B8-%EC%8B%9C%EC%9E%91): 네트워크 생성, 빌드/실행 가이드
 
 
 ## 🌱 참여 안내 (How to Engage)
@@ -131,8 +128,8 @@ OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thank
 [Pseudo-Lab](https://pseudo-lab.com/) is a non-profit organization focused on advancing machine learning and AI technologies. Our core values of Sharing, Motivation, and Collaborative Joy drive us to create impactful open-source projects. With over 5k+ researchers, we are committed to advancing machine learning and AI technologies.
 
 <h2>Contributors 😃</h2>
-<a href="https://github.com/Pseudo-Lab/10th-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/10th-template" />
+<a href="https://github.com/Pseudo-Lab/Stockelper-Lab/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pseudo-Lab/Stockelper-Lab" />
 </a>
 <br><br>
 
