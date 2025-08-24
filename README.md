@@ -21,8 +21,6 @@
 > Welcome to Stockelper Lab! We build an AI-powered stock investment assistant leveraging LangGraph multi-agent workflows, knowledge graph (Neo4j), vector search, and automated data pipelines to support market/fundamental/technical analysis and portfolio strategies.
 
 🚀 Stockelper Lab — 가짜연구소 오픈 리서치 프로젝트
-“함께 만드는 우연한 혁명(Serendipity Revolution)”
-진실함과 신뢰를 바탕으로 AI/DS 혁신 커뮤니티와 기술 실험을 진행합니다.
 
 프로젝트 계획표 : https://www.notion.so/chanrankim/Stockelper-Lab-254963ffa3ee80dfa0b3e919679ad167
 
